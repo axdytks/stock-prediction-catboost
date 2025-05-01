@@ -42,3 +42,6 @@ Python 3.8+
 conda install -c conda-forge catboost optuna pandas matplotlib seaborn
 pip install tushare joblib
 ```
+## 运行方式
+main.py -
+至少2个GPU运行
