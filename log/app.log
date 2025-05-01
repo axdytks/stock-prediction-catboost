@@ -1,0 +1,49 @@
+2025-04-10 21:51:04,977 - core - ERROR - Error predicting 601127: could not convert string to float: '601127.SH'
+2025-04-11 00:03:43,409 - core - ERROR - Error predicting 601127: 非数值特征列存在: ['ts_code']
+2025-04-11 00:07:36,110 - core - ERROR - Error predicting 601127: 非数值特征列存在: ['ts_code']
+2025-04-11 00:07:40,879 - core - ERROR - Error predicting 601127: 非数值特征列存在: ['ts_code']
+2025-04-11 00:08:24,222 - core - ERROR - Error predicting 601127: 非数值特征列存在: ['ts_code']
+2025-04-11 00:08:24,866 - core - ERROR - Error predicting 601127: 非数值特征列存在: ['ts_code']
+2025-04-11 00:08:25,179 - core - ERROR - Error predicting 601127: 非数值特征列存在: ['ts_code']
+2025-04-11 00:09:04,166 - core - ERROR - Error predicting 601127: 非数值特征列存在: ['ts_code']
+2025-04-11 00:09:28,295 - core - ERROR - Error predicting 601127: 非数值特征列存在: ['ts_code']
+2025-04-11 00:09:28,934 - core - ERROR - Error predicting 601127: 非数值特征列存在: ['ts_code']
+2025-04-11 00:09:30,119 - core - ERROR - Error predicting 601127: 非数值特征列存在: ['ts_code']
+2025-04-11 00:10:51,074 - core - ERROR - Error predicting 601127: 非数值特征列存在: ['ts_code']
+2025-04-11 00:11:09,014 - core - ERROR - Error predicting 601127: 'set' object is not callable
+2025-04-11 00:13:30,356 - core - ERROR - Error predicting 601127: 'set' object is not callable
+2025-04-11 00:13:43,015 - core - ERROR - Error predicting 601127: "['ts_code', 'pre_close', 'amount', 'change', 'pct_chg'] not found in axis"
+2025-04-11 00:25:34,992 - core - ERROR - Error predicting 601127: "['ts_code', 'pre_close', 'amount', 'change', 'pct_chg'] not found in axis"
+2025-04-11 00:30:42,751 - core - ERROR - Error predicting 601127: "['ts_code', 'pre_close', 'amount', 'change', 'pct_chg'] not found in axis"
+2025-04-11 00:32:52,560 - core - ERROR - Error predicting 601127: "['ts_code', 'pre_close', 'amount', 'change', 'pct_chg'] not found in axis"
+2025-04-11 00:41:47,147 - core - ERROR - Error predicting 601127: "['ts_code', 'pre_close', 'amount', 'change', 'pct_chg'] not found in axis"
+2025-04-11 13:09:23,312 - core - ERROR - Error predicting 601127: 非数值特征列存在: ['ts_code']
+2025-04-11 13:10:58,057 - core - ERROR - Error predicting 601127: could not convert string to float: '601127.SH'
+2025-04-11 13:13:23,077 - core - ERROR - Error predicting 601127: could not convert string to float: '601127.SH'
+2025-04-11 13:16:32,148 - core - ERROR - Error predicting 601127: got an unexpected keyword argument 'squared'
+2025-04-11 17:44:10,589 - core - ERROR - Error predicting 601127: got an unexpected keyword argument 'squared'
+2025-04-11 18:31:56,554 - core - ERROR - Error predicting 000858: catboost/cuda/cuda_lib/devices_provider.h:190: Error: device already requested 0
+2025-04-11 18:31:56,554 - core - ERROR - Error predicting 600519: catboost/cuda/cuda_lib/devices_provider.h:190: Error: device already requested 0
+2025-04-11 18:31:56,554 - core - ERROR - Failed to predict 000858: catboost/cuda/cuda_lib/devices_provider.h:190: Error: device already requested 0
+2025-04-11 18:31:56,555 - core - ERROR - Failed to predict 600519: catboost/cuda/cuda_lib/devices_provider.h:190: Error: device already requested 0
+2025-04-13 01:47:54,692 - core - ERROR - Error predicting 601127: 'NoneType' object has no attribute 'cuda'
+2025-04-13 05:08:14,889 - core - ERROR - Error predicting 601127: name 'root_mean_squared_error' is not defined
+2025-04-13 05:26:42,512 - core - ERROR - Error predicting 000858: catboost/cuda/cuda_lib/devices_provider.h:190: Error: device already requested 0
+2025-04-13 05:26:42,516 - core - ERROR - Failed to predict 000858: catboost/cuda/cuda_lib/devices_provider.h:190: Error: device already requested 0
+2025-04-13 05:26:42,517 - core - ERROR - Error predicting 600519: catboost/cuda/cuda_lib/devices_provider.h:190: Error: device already requested 0
+2025-04-13 05:26:42,519 - core - ERROR - Failed to predict 600519: catboost/cuda/cuda_lib/devices_provider.h:190: Error: device already requested 0
+2025-04-13 05:40:55,971 - core - ERROR - Error predicting 000858: catboost/cuda/cuda_lib/devices_provider.h:190: Error: device already requested 0
+2025-04-13 05:40:55,972 - core - ERROR - Error predicting 600519: catboost/cuda/cuda_lib/devices_provider.h:190: Error: device already requested 0
+2025-04-13 05:40:55,973 - core - ERROR - Failed to predict 000858: catboost/cuda/cuda_lib/devices_provider.h:190: Error: device already requested 0
+2025-04-13 05:40:55,974 - core - ERROR - Failed to predict 600519: catboost/cuda/cuda_lib/devices_provider.h:190: Error: device already requested 0
+2025-04-13 06:03:59,853 - core - ERROR - Error processing 600519: run_stock_prediction.<locals>.process_stock() takes 1 positional argument but 2 were given
+2025-04-13 06:03:59,854 - core - ERROR - Error processing 601127: run_stock_prediction.<locals>.process_stock() takes 1 positional argument but 2 were given
+2025-04-13 06:03:59,855 - core - ERROR - Error processing 000858: run_stock_prediction.<locals>.process_stock() takes 1 positional argument but 2 were given
+2025-04-13 06:20:54,806 - core - ERROR - Error processing 601127: Can't pickle local object 'run_stock_prediction.<locals>.process_stock'
+2025-04-13 06:20:54,809 - core - ERROR - Error processing 600519: Can't pickle local object 'run_stock_prediction.<locals>.process_stock'
+2025-04-13 06:20:54,810 - core - ERROR - Error processing 000858: Can't pickle local object 'run_stock_prediction.<locals>.process_stock'
+2025-04-13 06:34:11,500 - core - ERROR - Failed to predict 600519: name 'os' is not defined
+2025-04-13 06:34:11,500 - core - ERROR - Failed to predict 601127: name 'os' is not defined
+2025-04-13 06:34:11,506 - core - ERROR - Failed to predict 000858: name 'os' is not defined
+2025-04-13 22:29:55,856 - core - ERROR - Error predicting 601127: No module named 'seaborn'
+2025-04-13 22:39:37,897 - core - ERROR - Error predicting 601127: index 405 is out of bounds for axis 0 with size 14
